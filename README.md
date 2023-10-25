@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy legal docs for Univera Services
+https://univera.app/docs/privacy-policy/
